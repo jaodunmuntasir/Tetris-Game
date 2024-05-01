@@ -2,7 +2,7 @@ Tetris Game
 
 
 Written and Implemented By
-MD JAODUN MUNTASIR (BVLLR5) 
+MD JAODUN MUNTASIR 
 Course: Programming Technology 
 Faculty of Informatics
 Eötvös Loránd University
